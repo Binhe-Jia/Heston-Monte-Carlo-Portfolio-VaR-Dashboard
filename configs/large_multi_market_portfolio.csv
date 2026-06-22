@@ -1,0 +1,40 @@
+ticker,weight,asset_class,market,sleeve
+SPY,0.0800,equity,US,us_large_cap
+QQQ,0.0500,equity,US,us_growth
+IWM,0.0300,equity,US,us_small_cap
+VTV,0.0200,equity,US,us_value
+VUG,0.0200,equity,US,us_growth
+EFA,0.0500,equity,Developed ex-US,developed_equity
+VGK,0.0300,equity,Europe,developed_equity
+EWJ,0.0300,equity,Japan,developed_equity
+EWU,0.0150,equity,United Kingdom,developed_equity
+EWG,0.0150,equity,Germany,developed_equity
+EWL,0.0100,equity,Switzerland,developed_equity
+EWC,0.0200,equity,Canada,developed_equity
+EEM,0.0400,equity,Emerging markets,emerging_equity
+FXI,0.0200,equity,China,emerging_equity
+INDA,0.0200,equity,India,emerging_equity
+EWZ,0.0150,equity,Brazil,emerging_equity
+EWW,0.0100,equity,Mexico,emerging_equity
+EWT,0.0100,equity,Taiwan,emerging_equity
+EWY,0.0150,equity,South Korea,emerging_equity
+EZA,0.0100,equity,South Africa,emerging_equity
+SHY,0.0300,rates,US,short_treasury
+IEF,0.0500,rates,US,intermediate_treasury
+TLT,0.0500,rates,US,long_treasury
+BIL,0.0200,rates,US,cash_like
+LQD,0.0400,credit,US,investment_grade_credit
+HYG,0.0300,credit,US,high_yield_credit
+EMB,0.0300,credit,Emerging markets,emerging_debt
+BNDX,0.0200,rates,Global ex-US,global_bonds
+GLD,0.0500,commodity,Gold,precious_metals
+SLV,0.0150,commodity,Silver,precious_metals
+USO,0.0200,commodity,Oil,energy
+DBA,0.0150,commodity,Agriculture,agriculture
+VNQ,0.0300,real_estate,US,listed_reit
+VNQI,0.0200,real_estate,Global ex-US,listed_reit
+UUP,0.0200,fx,US dollar,fx
+FXE,0.0100,fx,Euro,fx
+FXY,0.0100,fx,Japanese yen,fx
+BTC-USD,0.0150,crypto,Bitcoin,crypto
+ETH-USD,0.0150,crypto,Ethereum,crypto
